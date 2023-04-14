@@ -1,5 +1,5 @@
 <div align="center">
- 🛠 Tech Stack
+ 🛠 <b>Tech Stack</b>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
