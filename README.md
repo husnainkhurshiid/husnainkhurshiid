@@ -1,6 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/husnainkhurshid/">
+  <img width="900" src="https://github.com/husnainkhurshiid/husnainkhurshiid/blob/master/banner.png"></a>
+</p>
+
 <div align="center">
- 
-  <h1>🛠 Tech Stack</h1>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
