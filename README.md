@@ -37,8 +37,8 @@
 <br>
  <h2 align="center"> Contact me at</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/husnainkhurshid/"><img src="https://img.shields.io/badge/-Husnain%20Khurshid-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
+<!-- <a href="https://www.linkedin.com/in/husnainkhurshid/"><img src="https://img.shields.io/badge/-Husnain%20Khurshid-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a> -->
 <a href="mailto:muhammadhusnainkh@gmail"><img src="https://img.shields.io/badge/-muhammadhusnainkh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
